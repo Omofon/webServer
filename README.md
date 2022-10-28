@@ -1,6 +1,8 @@
 # webServer
 Zuri Task for week 5 - creating http server
 
+Home Page - index.html
+
 pulled from my replit https://replit.com/@Omofon/webServer
 
 => Create a portfolio having the following HTML pages:
